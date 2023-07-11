@@ -67,6 +67,8 @@
 
 .features-description {
     text-align: center;
+    padding-bottom: 5px;
+    color: rgba(39, 39, 39, 0.6);
 }
 
 .feature-pic1 {
@@ -148,14 +150,70 @@
     background-color: rgba(229, 84, 115, 0.05);
     margin-top: 15px;
 }
-.discount-div{
+
+.discount-div {
     display: flex;
     width: 70%;
     margin: auto;
 }
+
 .navstyle4 {
     padding: 20px;
     text-align: left;
     margin: auto;
     text-align: center;
+}
+
+/*fifth section*/
+.secstyle5 {
+    margin-top: 15px;
+}
+
+.navstyle5 {
+    width: 80%;
+    margin: auto;
+
+}
+
+.instagram {
+    padding-right: 10px;
+}
+
+.instagrams {
+    display: flex;
+    gap: 5px;
+}
+
+.instagrams-title {
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.instagrams-description {
+    text-align: center;
+    padding-bottom: 5px;
+    color: rgba(39, 39, 39, 0.6);
+}
+
+.instagram-pic1 {
+    background-color: rgba(167, 33, 98, 0.15);
+    width: 70%;
+}
+
+.instagram-pic2 {
+    background-color: rgba(5, 151, 160, 0.15);
+    width: 70%;
+}
+
+.instagram-pic3 {
+    background-color: rgba(71, 125, 17, 0.15);
+    width: 70%;
+}
+
+.instagram-pic4 {
+    background-color: rgba(71, 125, 17, 0.15);
+    width: 70%;
 }
