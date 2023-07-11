@@ -167,7 +167,7 @@
 /*fifth section*/
 .secstyle5 {
     margin-top: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .navstyle5 {
@@ -217,6 +217,51 @@
 .instagram-pic4 {
     background-color: rgba(71, 125, 17, 0.15);
     width: 70%;
+}
+
+/*My Section*/
+.mysec {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgba(125, 151, 30, 0.57);
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.me {
+    border-radius: 50%;
+}
+
+.hi {
+    padding-bottom: 5px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.mystyle {
+    padding: 50px;
+    text-align: left;
+    margin: auto;
+}
+
+.mytitle {
+    color: #151414;
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+
+.mydescription {
+    color: #444343;
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+
+.myemail {
+    color: #444343;
+    font-weight: 500;
+    font-size: 19px;
 }
 
 /* sixth section */
