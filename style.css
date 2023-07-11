@@ -1,0 +1,38 @@
+/*Universal style*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*Main style*/
+.secstyle {
+    display: flex;
+    width: 100%;
+    margin: auto;
+}
+
+.navstyle1 {
+    padding: 20px;
+    text-align: left;
+    margin: auto;
+}
+
+.title1 {
+    color: #151414;
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+
+.description1 {
+    color: #444343;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.btn1{
+    background-color:rgba(229, 84, 115, 1);
+    color:white;
+    padding: 8px 12px;
+    border-radius:5px;
+    border:0;
+}
