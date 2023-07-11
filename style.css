@@ -88,6 +88,7 @@
     text-align: center;
     text-decoration: underline;
 }
+
 /*third section*/
 .secstyle3 {
     margin-top: 10vh;
@@ -124,7 +125,7 @@
     text-align: center;
 }
 
-.service-pic{
+.service-pic {
     display: flex;
     width: fit-content;
     margin: auto;
@@ -133,4 +134,28 @@
 .service-title {
     text-align: center;
     padding-top: 3px;
+}
+
+/*fourth section*/
+.discount-off {
+    color: rgba(229, 84, 115, 1);
+}
+
+.secstyle4 {
+    display: flex;
+    width: 100%;
+    margin: auto;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 15px;
+}
+.discount-div{
+    display: flex;
+    width: 70%;
+    margin: auto;
+}
+.navstyle4 {
+    padding: 20px;
+    text-align: left;
+    margin: auto;
+    text-align: center;
 }
