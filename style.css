@@ -167,10 +167,11 @@
 /*fifth section*/
 .secstyle5 {
     margin-top: 15px;
+    margin-bottom: 30px;
 }
 
 .navstyle5 {
-    width: 80%;
+    width: 50%;
     margin: auto;
 
 }
@@ -216,4 +217,44 @@
 .instagram-pic4 {
     background-color: rgba(71, 125, 17, 0.15);
     width: 70%;
+}
+
+/* sixth section */
+.secstyle6 {
+    background-image: url("/Flower Asset/Rectangle\ 9.png");
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.navstyle6 {
+    text-align: center;
+}
+
+.subscribe {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.subscribe-description {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.navstyle6 {
+    padding-bottom: 10px;
+}
+
+#email {
+    padding: 8px 25px 8px 8px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.btn3 {
+    padding: 8px 10px;
+    background-color: rgba(229, 84, 115, 1);
+    color: white;
+    border-radius: 5px;
+    border: 0;
 }
