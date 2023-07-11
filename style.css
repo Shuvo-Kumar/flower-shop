@@ -88,3 +88,49 @@
     text-align: center;
     text-decoration: underline;
 }
+/*third section*/
+.secstyle3 {
+    margin-top: 10vh;
+}
+
+.navstyle3 {
+    width: 70%;
+    margin: auto;
+    padding: 10px 0;
+    background-color: rgba(39, 39, 39, 0.05);
+    border-radius: 5px;
+}
+
+.service {
+    padding-right: 10px;
+}
+
+.services {
+    display: flex;
+    gap: 100px;
+    width: 80%;
+    margin: auto;
+}
+
+.services-title {
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.services-description {
+    text-align: center;
+}
+
+.service-pic{
+    display: flex;
+    width: fit-content;
+    margin: auto;
+}
+
+.service-title {
+    text-align: center;
+    padding-top: 3px;
+}
